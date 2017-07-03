@@ -7,7 +7,7 @@ buildscript {
 }
 
 ext {
-        //scarabeiAPILevel = "F.2"
+        scarabeiAPILevel = "F.2"
 }
 
 
